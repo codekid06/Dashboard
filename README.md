@@ -1,2 +1,2 @@
-# adminhub
-Website ini merupakan hasil slicing dari Figma ke responsive website menggunakan HTML, CSS, dan JavaScript
+# MYBOARD
+A dashboard website made with HTML, CSS, dan JavaScript
